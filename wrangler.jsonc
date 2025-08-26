@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "xtalk-stats-api",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "xtalk-stats-api-db",
+      "database_id": "aba65ecb-5835-420f-a08f-cd1798e3a584"
+    }
+  ]
+}
